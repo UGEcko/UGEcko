@@ -13,8 +13,8 @@
 
 - Since I mentioned my learning into Noodle Extensions, I plan on making a tutorial on that aswell. (This may take some time as I am still very new to NE.)
 
-* The project is already published, but it doesnt have anything linked to it. Im planning on releasing the full project from early March to late april. (This gives me time to perfect everything in the project, this project has 6 repos default, so it will take me time to perfect and word everything to my liking to KNOW that players will learn off of this.
-
+* The project is already published, but it doesnt have anything linked to it. Im planning on releasing the full project from early March to late april depending on my productivity. (This gives me time to perfect everything in the project because of school.. This project has 6 repos default, so it will take me time to perfect and word everything to my liking to KNOW that players will learn off of this. 
+* 
 Thank you! See ya!
 
 <!---
